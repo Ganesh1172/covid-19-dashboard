@@ -10,7 +10,7 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
   }
   return (
     <div className={styles.container}>
-      <Grid container spacing={3} justify="content">
+      <Grid container spacing={3} center="content">
         <Grid
           item
           component={Card}
