@@ -24,6 +24,10 @@
 <li>React Chartjs</li>
 </ul>
 
+<h2>API used</h2>
+
+[COVID-19 API](https://covid19.mathdro.id/api "covid-19")
+
 <h2>How to Launch</h2>
 
 To clone and run this application, From your command line:
@@ -41,5 +45,5 @@ $ npm start
 
 ## Support
 
-Show some :heart: and star the repo to support the project. Demo version:- 
+Show some :heart: and star the repo to support the project. Demo version:- https://covid-19-panel.netlify.app/
 
