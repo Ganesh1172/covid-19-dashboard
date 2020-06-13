@@ -5,7 +5,7 @@
 		src="src/images/covid.png">
 </h1>                                                              
 
-<h3 align="center">COVID-19 Dashboard</h3>
+<h3 align="center"><u>COVID-19 Dashboard</u></h3>
 
 <h1 align="center">
 	<img
